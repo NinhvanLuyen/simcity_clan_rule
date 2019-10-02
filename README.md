@@ -2,7 +2,7 @@
 - Sắt, gỗ, nhựa, hạt, đá < 30p
 - Bình thuốc (2h), Cuộn vải (3h), Đường (4h), Kính (5h), Đồ ăn cho thú (6h)
 
-# Xưởng gỗ
+# Xưởng gỗ( Assign : Miền đất hứa)
 
 ### Bàn (30p):
 - 1 ván (30p) + 2 đinh (5p) + 1 búa (15p) => 30p
@@ -42,7 +42,7 @@
 
 > Chuyên luôn sản xuất búa, xẻng, ván, thang
 
-# Thợ xây
+# Thợ xây( Assign : Phuong)
 
 ### Gạch (20p)
 - 2 đá (30p)
