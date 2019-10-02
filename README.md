@@ -56,7 +56,7 @@
 ### Thùng sơn (1h)
 - 2 sắt (1p) + 1 đá (30p) + 2 bình thuốc (2h)
 
-# Vựa trái cây
+# Vựa trái cây (Asssign : ANam)
 
 ### Dưa hấu (1h30p):
 - 2 hạt (20p) + 1 cành (1h30p) => 1h30p
