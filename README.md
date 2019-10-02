@@ -94,7 +94,7 @@
 
 > Chuyên luôn sản xuất rau, cành, cỏ, túi bột
 
-# Chuyên gia thời trang
+# Chuyên gia thời trang (Asssign : Tan)
 
 ### Nón (1h)
 - 2 cuộn vải (3h) + 1 thước (20p)
